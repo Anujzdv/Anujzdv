@@ -43,7 +43,7 @@
 
 ---
 
-### 💡 LeetCode Stats  
+<!-- ### 💡 LeetCode Stats  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anujzdv?theme=dark&font=Roboto&ext=activity" />
 </p>
@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=anujzdv&theme=dark" />
 </p>
-
+-->
 ---
 
 ### 🎯 Virtual Internships  
