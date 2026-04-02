@@ -1,15 +1,60 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">🚀 Developer | 💻 MERN Stack | 🐍 Python Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | 💻 Backend & MERN | 📈 DSA Enthusiast</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🛠 Currently working on **Syntax|Flow** – an interactive platform for learning programming.
-- 🤝 Open to collaborating on **open-source projects** & educational platforms.
-- 🌱 Currently learning **Advanced JavaScript (ES6+), Backend Development with Node.js & Express, Python**.
-- 💬 Ask me about **Web Development, Python, C++, MongoDB, Problem Solving**.
-- ⚡ Fun fact: I turn complex concepts into simple examples — fueled by ☕ and curiosity.
+- 🎓 3rd Year B.Tech CSE student (AKTU)
+- 🛠 Building **Syntax|Flow** – a scalable, community-driven platform for learning programming
+- 💡 Strong focus on **DSA, Backend Development, and System Design**
+- 🌱 Currently learning:
+  - Advanced **Data Structures & Algorithms**
+  - **Backend Engineering** (Node.js, Express, APIs, Authentication)
+  - **Database Design** (MongoDB, SQL)
+  - **Cloud & DevOps Basics (AWS)**
+- 🤝 Open to collaborating on impactful **open-source & real-world projects**
+- 💬 Ask me about **DSA, MERN Stack, Backend Systems, Python, C++**
+- ⚡ Fun fact: I simplify complex tech concepts into easy explanations
+
+---
+
+### 🧠 Tech Stack & Skills
+
+#### 👨‍💻 Programming
+- C++, Python, JavaScript (ES6+)
+
+#### 🌐 Web Development
+- Frontend: React.js, HTML5, CSS3
+- Backend: Node.js, Express.js
+- API Design: REST APIs, JWT Authentication
+
+#### 🗄️ Databases
+- MongoDB, MySQL (Basics of DBMS concepts)
+
+#### ⚙️ Core CS Subjects
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- DBMS, OS, Computer Networks (Fundamentals)
+
+#### ☁️ Tools & Technologies
+- Git & GitHub  
+- Postman  
+- Basic AWS (Learning Phase)
+
+---
+
+### 🚀 Projects
+
+#### 🔹 Syntax|Flow
+- 🌐 Live: https://anujzdv.github.io/SyntaxFlow  
+- Interactive platform for coding practice & learning  
+- Features:
+  - Quiz system (C, C++, Python, Java, JS)
+  - Snippet sharing (like a developer social feed)
+  - Leaderboards & gamification
+- Tech: React, Node.js, Express, MongoDB  
+- Focus: **Scalable architecture, user engagement, clean UI**
 
 ---
 
@@ -42,24 +87,17 @@
 
 ---
 
-<!-- ### 💡 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anujzdv?theme=dark&font=Roboto&ext=activity" />
-</p>
+### 🎯 Internships & Learning
+- ✅ AI-ML Virtual Internship – Completed  
+- ✅ Networking Virtual Internship – Completed  
+- 🔄 AWS Cloud Virtual Internship – Completed    
 
 ---
 
-### 🖥️ GFG Progress  
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=anujzdv&theme=dark" />
-</p>
--->
----
-
-### 🎯 Virtual Internships  
-- ✅ **AI-ML Virtual Internship** – *Completed*  
-- ✅ **Networking Virtual Internship** – *Completed*  
-- 🔄 **AWS Cloud Virtual Foundation Internship** – *In Progress*  
+### 🎯 Current Goals (2026)
+- 📌 Master **DSA + System Design**
+- 📌 Build **production-level backend systems**
+- 📌 Deploy projects using **cloud & DevOps**
 
 ---
 
