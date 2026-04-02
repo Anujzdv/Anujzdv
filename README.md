@@ -90,7 +90,7 @@
 ### 🎯 Internships & Learning
 - ✅ AI-ML Virtual Internship – Completed  
 - ✅ Networking Virtual Internship – Completed  
-- 🔄 AWS Cloud Virtual Internship – Completed    
+- ✅ AWS Cloud Virtual Internship – Completed    
 
 ---
 
